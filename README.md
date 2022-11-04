@@ -2,7 +2,7 @@
 
 On this occasion, I was tasked to create a function to be used in merging and sorting arrays using Python.
 
-Find my attempt in the accompanying notebook.
+Find below, a screenshot of the question, and my attempt in the accompanying notebook.
 
 Thank you.
 
