@@ -1,6 +1,6 @@
 [InterviewQs](https://www.interviewqs.com/), one of my email newsletter buddies, never misses sending me Data Science and Analytics interview questions (specifically, SQL and Python) 3 times a week.
 
-On this occasion, I was tasked to create a function to be used in merging and sorting arrays using Python.
+On this occasion, I was tasked to create a function that merges two lists, using Python.
 
 Find below, a screenshot of the question, and my attempt in the accompanying notebook.
 
